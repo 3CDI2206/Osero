@@ -5,8 +5,6 @@
 この作品は `main_menu.py` を起動して使用します。
 
 以下のコマンドを実行してください：
-
-```bash
 python main_menu.py
 
 
